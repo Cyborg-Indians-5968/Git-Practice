@@ -14,5 +14,7 @@ public class First {
 		
 		System.out.println("bye");
 		
+		System.out.println("Happy birthday, Stephanie!");
+		
 	}
 }//does this work out
